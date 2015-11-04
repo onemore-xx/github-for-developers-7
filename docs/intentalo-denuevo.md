@@ -2,3 +2,4 @@
 * From: Belgium
 * Food: Macheronni
 * Hobby: Chess
+* color: Orange
